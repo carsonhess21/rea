@@ -350,7 +350,7 @@
     "har-schema": "2.0.0",
     "ignore": "7.0.6",
     "incur": "0.6.1",
-    "isomorphic-git": "1.38.7",
+    "isomorphic-git": "1.42.6",
     "jsonc-parser": "3.3.1",
     "lossless-json": "4.3.1",
     "openpgp": "6.3.2",
